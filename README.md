@@ -53,10 +53,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=guigz01&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
----
+
 
 <div align="center">
 
-*"Que a sua Paz seja o seu guia, que a sua Luz ilumine o caminho e que o seu melhor seja sempre a sua maior entrega ao mundo."*
+*"Transformando dados em decisões e código em soluções."*
 
 </div>
