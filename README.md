@@ -50,15 +50,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guigz01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigz01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+[![GitHub Streak](https://streak-stats.demolab.com?user=guigz01&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 ---
 
 <div align="center">
 
-*"Transformando dados em decisões e código em soluções."*
+*"Que a sua Paz seja o seu guia, que a sua Luz ilumine o caminho e que o seu melhor seja sempre a sua maior entrega ao mundo."*
 
 </div>
