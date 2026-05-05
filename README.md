@@ -6,7 +6,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-guigz01-181717?style=flat&logo=github)](https://github.com/guigz01)
 
 </div>
-
 <p align="left">Estudante de GTI · Análise de Dados · Automação · Desenvolvimento</p>
 
 ###
@@ -55,14 +54,13 @@
 | [🏋️ Sistema de Academia Simples](https://github.com/guigz01/SistemaDeAcademiaSimples) | Sistema de matrícula e gestão de alunos com POO | C#, HTML, CSS |
 
 ---
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guigz01/guigz01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guigz01/guigz01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guigz01/guigz01/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/guigz01/guigz01/output/snake.svg" alt="Snake animation" />
 
 ###
 
