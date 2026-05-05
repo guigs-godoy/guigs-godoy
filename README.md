@@ -56,11 +56,15 @@
 
 ---
 
-### 📊 Estatísticas
+###
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guigz01/guigz01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guigz01/guigz01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guigz01/guigz01/output/pacman-contribution-graph.svg">
+</picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=guigz01&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+###
 
 </div>
 
