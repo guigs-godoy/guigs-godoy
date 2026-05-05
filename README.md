@@ -2,7 +2,7 @@
 <h1 align="left">Guilherme Godoy - 👾</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme--godoy7-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/guilherme-godoy7)
-[![GitHub](https://img.shields.io/badge/GitHub-guigz01-181717?style=flat&logo=github)](https://github.com/guigz01)
+[![GitHub](https://img.shields.io/badge/GitHub-guigs--godoy-181717?style=flat&logo=github)](https://github.com/guigs-godoy)
 
 </div>
 
@@ -47,14 +47,14 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [📋 Relatório de Presença](https://github.com/guigz01/relatorio-presenca) | Automação de relatório de frequência com análise de risco de evasão | Python, Pandas, OpenPyXL |
-| [📊 Dashboard de Chamados de TI](https://github.com/guigz01/dashboard-chamados) | Análise de chamados com geração automática de gráficos | Python, Pandas, Matplotlib |
-| [🖥️ Monitor de Inventário de TI](https://github.com/guigz01/monitor-inventario-ti) | Monitoramento de equipamentos com alertas de garantia e uso | Python, Pandas |
-| [🏋️ Sistema de Academia Simples](https://github.com/guigz01/SistemaDeAcademiaSimples) | Sistema de matrícula e gestão de alunos com POO | C#, HTML, CSS |
+| [📋 Relatório de Presença](https://github.com/guigs-godoy/relatorio-presenca) | Automação de relatório de frequência com análise de risco de evasão | Python, Pandas, OpenPyXL |
+| [📊 Dashboard de Chamados de TI](https://github.com/guigs-godoy/dashboard-chamados) | Análise de chamados com geração automática de gráficos | Python, Pandas, Matplotlib |
+| [🖥️ Monitor de Inventário de TI](https://github.com/guigs-godoy/monitor-inventario-ti) | Monitoramento de equipamentos com alertas de garantia e uso | Python, Pandas |
+| [🏋️ Sistema de Academia Simples](https://github.com/guigs-godoy/SistemaDeAcademiaSimples) | Sistema de matrícula e gestão de alunos com POO | C#, HTML, CSS |
 
 ---
 
-<img src="https://raw.githubusercontent.com/guigz01/guigz01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/guigs-godoy/guigs-godoy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <div align="center">
 
