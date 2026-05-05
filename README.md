@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="left">Guilherme Godoy - 👾</h1>
+<h1 align="left">Guilherme Godoy 👾</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme--godoy7-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/guilherme-godoy7)
 [![GitHub](https://img.shields.io/badge/GitHub-guigs--godoy-181717?style=flat&logo=github)](https://github.com/guigs-godoy)
