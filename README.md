@@ -48,17 +48,46 @@
 ### 📂 Projetos em Destaque
 
 <div align="center">
-
-[![relatorio-presenca](https://github-readme-stats.vercel.app/api/pin/?username=guigs-godoy&repo=relatorio-presenca&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75)](https://github.com/guigs-godoy/relatorio-presenca)
-[![dashboard-chamados](https://github-readme-stats.vercel.app/api/pin/?username=guigs-godoy&repo=dashboard-chamados&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75)](https://github.com/guigs-godoy/dashboard-chamados)
-
-[![monitor-inventario-ti](https://github-readme-stats.vercel.app/api/pin/?username=guigs-godoy&repo=monitor-inventario-ti&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75)](https://github.com/guigs-godoy/monitor-inventario-ti)
-[![SistemaDeAcademiaSimples](https://github-readme-stats.vercel.app/api/pin/?username=guigs-godoy&repo=SistemaDeAcademiaSimples&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75)](https://github.com/guigs-godoy/SistemaDeAcademiaSimples)
-
-[![nba-stats-db](https://github-readme-stats.vercel.app/api/pin/?username=guigs-godoy&repo=nba-stats-db&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75)](https://github.com/guigs-godoy/nba-stats-db)
-
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📋 Relatório de Presença</h3>
+      <p>Automação de relatório de frequência com análise de risco de evasão.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/OpenPyXL-217346?style=flat"/></p>
+      <a href="https://github.com/guigs-godoy/relatorio-presenca">→ Ver repositório</a>
+    </td>
+    <td width="50%">
+      <h3>📊 Dashboard de Chamados de TI</h3>
+      <p>Análise de chamados com geração automática de gráficos.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat"/></p>
+      <a href="https://github.com/guigs-godoy/dashboard-chamados">→ Ver repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🖥️ Monitor de Inventário de TI</h3>
+      <p>Monitoramento de equipamentos com alertas de garantia e uso.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/></p>
+      <a href="https://github.com/guigs-godoy/monitor-inventario-ti">→ Ver repositório</a>
+    </td>
+    <td width="50%">
+      <h3>🏋️ Sistema de Academia Simples</h3>
+      <p>Sistema de matrícula e gestão de alunos com POO.</p>
+      <p><img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></p>
+      <a href="https://github.com/guigs-godoy/SistemaDeAcademiaSimples">→ Ver repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏀 NBA Stats DB</h3>
+      <p>Banco de dados relacional da NBA com queries do básico ao avançado.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/></p>
+      <a href="https://github.com/guigs-godoy/nba-stats-db">→ Ver repositório</a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 </div>
-
 ---
 
 <img src="https://raw.githubusercontent.com/guigs-godoy/guigs-godoy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
