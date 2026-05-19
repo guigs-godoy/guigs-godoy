@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <h1 align="left">Guilherme Godoy 👾</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme--godoy7-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/guilherme-godoy7)
