@@ -94,6 +94,4 @@
 
 <div align="center">
 
-_"Transformando dados em decisões e código em soluções."_
-
 </div>
