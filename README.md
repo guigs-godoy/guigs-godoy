@@ -88,7 +88,7 @@
   </tr>
 </table>
 </div>
----
+
 
 <img src="https://raw.githubusercontent.com/guigs-godoy/guigs-godoy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
