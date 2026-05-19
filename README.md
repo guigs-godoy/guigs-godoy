@@ -39,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
 </div>
 
 ---
@@ -51,6 +53,7 @@
 | [📊 Dashboard de Chamados de TI](https://github.com/guigs-godoy/dashboard-chamados) | Análise de chamados com geração automática de gráficos | Python, Pandas, Matplotlib |
 | [🖥️ Monitor de Inventário de TI](https://github.com/guigs-godoy/monitor-inventario-ti) | Monitoramento de equipamentos com alertas de garantia e uso | Python, Pandas |
 | [🏋️ Sistema de Academia Simples](https://github.com/guigs-godoy/SistemaDeAcademiaSimples) | Sistema de matrícula e gestão de alunos com POO | C#, HTML, CSS |
+| [🏀 NBA Stats DB](https://github.com/guigs-godoy/nba-stats-db) | Banco de dados relacional da NBA com queries do básico ao avançado | Python, SQLite, SQL |
 
 ---
 
