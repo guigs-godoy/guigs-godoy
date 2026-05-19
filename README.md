@@ -47,20 +47,22 @@
 
 ### 📂 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [📋 Relatório de Presença](https://github.com/guigs-godoy/relatorio-presenca) | Automação de relatório de frequência com análise de risco de evasão | Python, Pandas, OpenPyXL |
-| [📊 Dashboard de Chamados de TI](https://github.com/guigs-godoy/dashboard-chamados) | Análise de chamados com geração automática de gráficos | Python, Pandas, Matplotlib |
-| [🖥️ Monitor de Inventário de TI](https://github.com/guigs-godoy/monitor-inventario-ti) | Monitoramento de equipamentos com alertas de garantia e uso | Python, Pandas |
-| [🏋️ Sistema de Academia Simples](https://github.com/guigs-godoy/SistemaDeAcademiaSimples) | Sistema de matrícula e gestão de alunos com POO | C#, HTML, CSS |
-| [🏀 NBA Stats DB](https://github.com/guigs-godoy/nba-stats-db) | Banco de dados relacional da NBA com queries do básico ao avançado | Python, SQLite, SQL |
+<div align="center">
+
+[![relatorio-presenca](https://github-readme-stats.vercel.app/api/pin/?username=guigs-godoy&repo=relatorio-presenca&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75)](https://github.com/guigs-godoy/relatorio-presenca)
+[![dashboard-chamados](https://github-readme-stats.vercel.app/api/pin/?username=guigs-godoy&repo=dashboard-chamados&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75)](https://github.com/guigs-godoy/dashboard-chamados)
+
+[![monitor-inventario-ti](https://github-readme-stats.vercel.app/api/pin/?username=guigs-godoy&repo=monitor-inventario-ti&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75)](https://github.com/guigs-godoy/monitor-inventario-ti)
+[![SistemaDeAcademiaSimples](https://github-readme-stats.vercel.app/api/pin/?username=guigs-godoy&repo=SistemaDeAcademiaSimples&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75)](https://github.com/guigs-godoy/SistemaDeAcademiaSimples)
+
+[![nba-stats-db](https://github-readme-stats.vercel.app/api/pin/?username=guigs-godoy&repo=nba-stats-db&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75)](https://github.com/guigs-godoy/nba-stats-db)
+
+</div>
 
 ---
 
 <img src="https://raw.githubusercontent.com/guigs-godoy/guigs-godoy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <div align="center">
-
-_"Transformando dados em decisões e código em soluções."_
 
 </div>
