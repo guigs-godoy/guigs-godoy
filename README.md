@@ -84,7 +84,18 @@
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/></p>
       <a href="https://github.com/guigs-godoy/nba-stats-db">→ Ver repositório</a>
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <h3>🖨️ AD2Graf — Sistema de Gestão para Gráfica</h3>
+      <p>Sistema web completo desenvolvido em dupla no 4º semestre da Fatec para controle de estoque, pedidos, movimentações e serviços de uma gráfica real. Arquitetura MVC com Repository Pattern e Service Layer.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+      </p>
+      <a href="https://github.com/guigs-godoy/AD2Graf">→ Ver repositório</a>
+    </td>
   </tr>
 </table>
 </div>
