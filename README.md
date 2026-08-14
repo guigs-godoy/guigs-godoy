@@ -131,30 +131,33 @@ Atualmente, estou direcionando meus estudos para desenvolvimento web, análise d
 
 <div align="left">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat\&logo=dotnet\&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat\&logo=dotnet\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google-gemini&logoColor=white)
 
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+### 💡 Projetos
 
 #### 💅 Sistema Kelly Cristine Unhas
 
-Sistema web desenvolvido para uma profissional de manicure e pedicure, com o objetivo de substituir planilhas e centralizar a gestão do negócio.
+Sistema web desenvolvido para uma profissional (minha namorada ❤️) de manicure e pedicure, com o objetivo de substituir planilhas e centralizar a gestão do negócio.
 
 O sistema possui **agenda, gestão de clientes, atendimentos, serviços e painel financeiro**, além de autenticação, PostgreSQL, Row Level Security e abordagem Mobile-First.
 
 **Tecnologias:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL`
 
-🌐 [Acessar aplicação](https://sistema-kelly.netlify.app/)
 📂 [Ver repositório](https://github.com/guigs-godoy/sistema-kelly)
 
 ---
