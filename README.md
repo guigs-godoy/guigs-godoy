@@ -1,14 +1,14 @@
 # 👨🏻‍💻 Guilherme Godoy
 
-**`Estudante de GTI | Dados, Automação e Desenvolvimento`**
+**`Estudante de Gestão da Tecnologia da Informação & IA | Dados, Automação e Desenvolvimento`**
 
-Me chamo Guilherme Godoy, tenho 21 anos e sou estudante de **Gestão da Tecnologia da Informação na Fatec Bragança Paulista**. Atualmente, trabalho como Assistente Administrativo na Associação Pequeno Mundo, onde atuo com dados, relatórios e indicadores para apoiar as atividades da instituição.
+Me chamo Guilherme Godoy, tenho 21 anos e sou estudante de Gestão da Tecnologia da Informação na Fatec de Bragança Paulista. Atualmente, trabalho como Assistente Administrativo | Inteligência Operacional na Associação Pequeno Mundo, onde atuo com bases de dados, relatórios e indicadores para apoiar as atividades da instituição.
 
-Minha trajetória na tecnologia começou com o interesse por programação, dados e automação. Desde então, venho desenvolvendo projetos práticos utilizando **Python, SQL, C#, JavaScript e TypeScript**, explorando desde análise e tratamento de dados até desenvolvimento de aplicações web completas.
+Minha trajetória na tecnologia começou com o interesse por programação, lá em 2019. Com o passar do tempo, fui desenvolvendo cada vez mais interesse por dados e automação. Desde então, venho desenvolvendo projetos práticos utilizando Python, SQL, C#, JavaScript e TypeScript, explorando desde análise e tratamento de dados até o desenvolvimento de aplicações web completas.
 
-Também tenho buscado utilizar ferramentas de **Inteligência Artificial** como apoio ao desenvolvimento, principalmente para aprendizado, arquitetura, debugging e resolução de problemas.
+Também tenho interesse em expandir meus conhecimentos para desenvolvimento mobile e aplicações com Inteligência Artificial.
 
-Atualmente, estou direcionando meus estudos para **desenvolvimento web, análise de dados, automação e banco de dados**, buscando sempre transformar problemas reais em soluções práticas.
+Atualmente, estou direcionando meus estudos para desenvolvimento web, análise de dados, automação e banco de dados, buscando sempre transformar problemas reais em soluções práticas.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/guilherme-godoy7">
