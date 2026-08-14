@@ -1,237 +1,260 @@
-<div align="left">
+# 👨🏻‍💻 Guilherme Godoy
 
-# Guilherme Godoy 👾
+**`Estudante de GTI | Dados, Automação e Desenvolvimento`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme--godoy7-0A66C2?style=flat\&logo=linkedin)](https://linkedin.com/in/guilherme-godoy7)
-[![GitHub](https://img.shields.io/badge/GitHub-guigs--godoy-181717?style=flat\&logo=github)](https://github.com/guigs-godoy)
+Me chamo Guilherme Godoy, tenho 21 anos e sou estudante de **Gestão da Tecnologia da Informação na Fatec Bragança Paulista**. Atualmente, trabalho como Assistente Administrativo na Associação Pequeno Mundo, onde atuo com dados, relatórios e indicadores para apoiar as atividades da instituição.
 
-</div>
+Minha trajetória na tecnologia começou com o interesse por programação, dados e automação. Desde então, venho desenvolvendo projetos práticos utilizando **Python, SQL, C#, JavaScript e TypeScript**, explorando desde análise e tratamento de dados até desenvolvimento de aplicações web completas.
 
-<p align="left">
-🎓 Estudante de Gestão da Tecnologia da Informação · 📊 Dados & Automação · 💻 Desenvolvimento Web
-</p>
+Também tenho buscado utilizar ferramentas de **Inteligência Artificial** como apoio ao desenvolvimento, principalmente para aprendizado, arquitetura, debugging e resolução de problemas.
 
----
-
-## 📍 Sobre mim
+Atualmente, estou direcionando meus estudos para **desenvolvimento web, análise de dados, automação e banco de dados**, buscando sempre transformar problemas reais em soluções práticas.
 
 <p align="left">
-🎓 Cursando <strong>Gestão da Tecnologia da Informação</strong> na Fatec Bragança Paulista<br>
-💼 Atualmente atuo como <strong>Assistente Administrativo</strong> na Associação Pequeno Mundo, trabalhando com dados, relatórios e indicadores educacionais<br>
-💻 Desenvolvo projetos práticos envolvendo <strong>análise de dados, automação e desenvolvimento web</strong><br>
-🚀 Atualmente explorando tecnologias como <strong>Next.js, React, TypeScript, Supabase e PostgreSQL</strong><br>
-🎯 Busco oportunidades para continuar evoluindo profissionalmente nas áreas de <strong>Dados, Tecnologia e Desenvolvimento</strong>
+    <a href="https://www.linkedin.com/in/guilherme-godoy7">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/guigs-godoy?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/guigs-godoy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/guigs-godoy?tab=repositories&sort=stargazers">
+        <img 
+            alt="Estrelas" 
+            title="Estrelas nos meus repositórios" 
+            src="https://custom-icon-badges.demolab.com/github/stars/guigs-godoy?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        />
+    </a>
 </p>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🤖 Linguagens e Tecnologias
 
-### 💻 Desenvolvimento
+<img 
+ align="left" 
+ alt="HTML"
+ title="HTML" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/> <img 
+ align="left" 
+ alt="CSS" 
+ title="CSS"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/> <img 
+ align="left" 
+ alt="JavaScript" 
+ title="JavaScript"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/> <img 
+ align="left" 
+ alt="TypeScript"
+ title="TypeScript" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/> <img 
+ align="left" 
+ alt="React"
+ title="React" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/> <img 
+ align="left" 
+ alt="Next.js" 
+ title="Next.js"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/> <img 
+ align="left" 
+ alt="Tailwind CSS" 
+ title="Tailwind CSS"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/> <img 
+ align="left" 
+ alt="C#" 
+ title="C#"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/> <img 
+ align="left" 
+ alt="Python" 
+ title="Python"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/> <img 
+ align="left" 
+ alt="PostgreSQL" 
+ title="PostgreSQL"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/> <img 
+ align="left" 
+ alt="SQLite" 
+ title="SQLite"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/> <img 
+ align="left" 
+ alt="Git" 
+ title="Git"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 🧰 Ferramentas e Tecnologias
 
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-
-</div>
-
-### 🌐 Web & Banco de Dados
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
-
-</div>
-
-### 📊 Dados & Automação
-
-* Python
-* Pandas
-* OpenPyXL
-* SQL
-* Power BI
-* Matplotlib
-* Automação de processos
-
-### 🔧 Ferramentas
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat\&logo=dotnet\&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat\&logo=dotnet\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 
 </div>
 
 ---
 
-# 📂 Projetos em Destaque
+### 🚀 Projetos em Destaque
 
-## 💅 Sistema Kelly Cristine Unhas
+#### 💅 Sistema Kelly Cristine Unhas
 
-<p>
-<strong>Sistema web (PWA) desenvolvido para uma profissional de manicure e pedicure, criado a partir de uma necessidade real.</strong>
-</p>
+Sistema web desenvolvido para uma profissional de manicure e pedicure, com o objetivo de substituir planilhas e centralizar a gestão do negócio.
 
-A aplicação centraliza **agendamentos, clientes, serviços e controle financeiro** em uma única plataforma, com foco em usabilidade mobile-first.
+O sistema possui **agenda, gestão de clientes, atendimentos, serviços e painel financeiro**, além de autenticação, PostgreSQL, Row Level Security e abordagem Mobile-First.
 
-### ✨ Principais funcionalidades
+**Tecnologias:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL`
 
-* 📅 Agenda com visualização mensal e navegação por datas
-* 💅 Gestão de atendimentos e serviços
-* 👤 Cadastro e histórico de clientes
-* 💰 Controle de receitas e despesas
-* 📊 Painel financeiro
-* 💳 Controle de formas de pagamento
-* 🔄 Status de atendimento
-* 🔐 Autenticação de usuários
-* 🛡️ Row Level Security (RLS)
-* 📱 PWA e interface Mobile-First
-
-### 🛠️ Tecnologias
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `RLS`
-
-🌐 **[Acessar aplicação](https://sistema-kelly.netlify.app/)**
-📂 **[Ver repositório](https://github.com/guigs-godoy/sistema-kelly)**
+🌐 [Acessar aplicação](https://sistema-kelly.netlify.app/)
+📂 [Ver repositório](https://github.com/guigs-godoy/sistema-kelly)
 
 ---
 
-## 🖨️ AD2Graf — Sistema de Gestão para Gráfica
+#### 🖨️ AD2Graf — Sistema de Gestão para Gráfica
 
-Sistema web completo desenvolvido em dupla no 4º semestre da Fatec para uma gráfica real.
+Sistema web desenvolvido em dupla durante o 4º semestre da Fatec para gerenciamento de uma gráfica, envolvendo controle de estoque, pedidos, movimentações e serviços.
 
-A aplicação foi desenvolvida para gerenciamento de **estoque, pedidos, movimentações e serviços**, utilizando uma arquitetura baseada em MVC, Repository Pattern e Service Layer.
+O projeto utiliza **arquitetura MVC, Repository Pattern e Service Layer**.
 
-### 🛠️ Tecnologias
+**Tecnologias:** `C#` `ASP.NET Core` `SQL Server` `Entity Framework Core` `Bootstrap`
 
-`C#` `ASP.NET Core` `SQL Server` `Entity Framework Core` `Bootstrap`
-
-📂 **[Ver repositório](https://github.com/guigs-godoy/AD2Graf)**
+📂 [Ver repositório](https://github.com/guigs-godoy/AD2Graf)
 
 ---
 
-## 📋 Relatório de Presença
+#### 📋 Relatório de Presença
 
-Automação desenvolvida para geração de relatórios de frequência, com análise de dados e identificação de situações que podem indicar risco de evasão.
+Projeto desenvolvido para automatizar a geração de relatórios de frequência, utilizando tratamento de dados e análise de risco de evasão.
 
-### 🛠️ Tecnologias
+**Tecnologias:** `Python` `Pandas` `OpenPyXL`
 
-`Python` `Pandas` `OpenPyXL`
-
-📂 **[Ver repositório](https://github.com/guigs-godoy/relatorio-presenca)**
+📂 [Ver repositório](https://github.com/guigs-godoy/relatorio-presenca)
 
 ---
 
-## 📊 Dashboard de Chamados de TI
+#### 📊 Dashboard de Chamados de TI
 
-Projeto desenvolvido para análise de chamados de suporte, utilizando tratamento de dados e geração automatizada de visualizações para facilitar a interpretação dos indicadores.
+Projeto de análise de chamados de suporte, com tratamento dos dados e geração automática de gráficos para facilitar a interpretação dos indicadores.
 
-### 🛠️ Tecnologias
+**Tecnologias:** `Python` `Pandas` `Matplotlib`
 
-`Python` `Pandas` `Matplotlib`
-
-📂 **[Ver repositório](https://github.com/guigs-godoy/dashboard-chamados)**
+📂 [Ver repositório](https://github.com/guigs-godoy/dashboard-chamados)
 
 ---
 
-## 🖥️ Monitor de Inventário de TI
+#### 🖥️ Monitor de Inventário de TI
 
-Sistema desenvolvido para acompanhamento de equipamentos de TI, permitindo monitoramento de informações e identificação de alertas relacionados à garantia e utilização dos equipamentos.
+Projeto desenvolvido para monitoramento de equipamentos de TI, permitindo acompanhar informações de uso e alertas relacionados à garantia dos equipamentos.
 
-### 🛠️ Tecnologias
+**Tecnologias:** `Python` `Pandas`
 
-`Python` `Pandas`
-
-📂 **[Ver repositório](https://github.com/guigs-godoy/monitor-inventario-ti)**
+📂 [Ver repositório](https://github.com/guigs-godoy/monitor-inventario-ti)
 
 ---
 
-## 🏋️ Sistema de Academia Simples
+#### 🏋️ Sistema de Academia Simples
 
-Sistema desenvolvido em C# para matrícula e gerenciamento de alunos, com aplicação de conceitos de **Programação Orientada a Objetos (POO)**.
+Sistema desenvolvido em C# para matrícula e gerenciamento de alunos, aplicando conceitos de **Programação Orientada a Objetos (POO)**.
 
-### 🛠️ Tecnologias
+**Tecnologias:** `C#` `HTML5` `CSS3`
 
-`C#` `HTML5` `CSS3`
-
-📂 **[Ver repositório](https://github.com/guigs-godoy/SistemaDeAcademiaSimples)**
+📂 [Ver repositório](https://github.com/guigs-godoy/SistemaDeAcademiaSimples)
 
 ---
 
-## 🏀 NBA Stats DB
+#### 🏀 NBA Stats DB
 
 Banco de dados relacional desenvolvido para estudos de SQL, utilizando informações relacionadas à NBA e consultas do nível básico ao avançado.
 
-### 🛠️ Tecnologias
+**Tecnologias:** `Python` `SQLite` `SQL`
 
-`Python` `SQLite` `SQL`
-
-📂 **[Ver repositório](https://github.com/guigs-godoy/nba-stats-db)**
+📂 [Ver repositório](https://github.com/guigs-godoy/nba-stats-db)
 
 ---
 
-# 📚 O que estou estudando atualmente
+### 📊 Estatísticas
 
-Atualmente estou aprofundando meus conhecimentos em:
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=guigs-godoy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-* 💻 Desenvolvimento Web com Next.js e React
-* 🔷 TypeScript
-* 🗄️ PostgreSQL e modelagem de banco de dados
-* 🔐 Autenticação e segurança de aplicações
-* 🐍 Python para dados e automação
-* 📊 Análise de dados e indicadores
-* 🤖 Aplicações práticas de Inteligência Artificial
-* 🚀 Deploy e desenvolvimento de aplicações em produção
+<img 
+ align="left" 
+ alt="Tecnologias mais utilizadas" 
+ height="200" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigs-godoy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
 
----
+</p>
 
-# 🤖 IA no Desenvolvimento
-
-Tenho explorado ferramentas de Inteligência Artificial como parte do meu processo de desenvolvimento.
-
-Entre as ferramentas utilizadas estão:
-
-* Claude
-* Gemini
-* GPT
-
-Utilizo IA principalmente como **ferramenta de apoio para desenvolvimento, aprendizado, debugging, arquitetura e resolução de problemas**, mantendo o foco na compreensão do código e das decisões tomadas durante o projeto.
+<br/>
+<br/>
+<br/>
 
 ---
 
-# 📈 Objetivo Profissional
+### 🎯 Atualmente
 
-Busco oportunidades onde possa unir **tecnologia, dados e desenvolvimento** para resolver problemas reais, automatizar processos e transformar informações em soluções úteis.
+Estou buscando oportunidades para continuar desenvolvendo minhas habilidades e ganhar experiência profissional nas áreas de:
 
-Tenho interesse principalmente em oportunidades relacionadas a:
+**📊 Análise de Dados · 🤖 Automação · 💻 Desenvolvimento Web · 🗄️ Banco de Dados · 🚀 Tecnologia**
 
-**📊 Análise de Dados · 🤖 Automação · 💻 Desenvolvimento · 🗄️ Banco de Dados · 🚀 Tecnologia**
+Também estou aprofundando meus conhecimentos em **Next.js, React, TypeScript, PostgreSQL, Python e Inteligência Artificial aplicada ao desenvolvimento**.
 
 ---
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/guigs-godoy/guigs-godoy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
