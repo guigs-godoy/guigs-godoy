@@ -1,108 +1,237 @@
 <div align="left">
-<h1 align="left">Guilherme Godoy 👾</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme--godoy7-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/guilherme-godoy7)
-[![GitHub](https://img.shields.io/badge/GitHub-guigs--godoy-181717?style=flat&logo=github)](https://github.com/guigs-godoy)
+# Guilherme Godoy 👾
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme--godoy7-0A66C2?style=flat\&logo=linkedin)](https://linkedin.com/in/guilherme-godoy7)
+[![GitHub](https://img.shields.io/badge/GitHub-guigs--godoy-181717?style=flat\&logo=github)](https://github.com/guigs-godoy)
 
 </div>
 
-<p align="left">Estudante de GTI · Análise de Dados · Automação · Desenvolvimento</p>
-
----
-
-<h2 align="left">📍 Sobre mim</h2>
-
 <p align="left">
-🎓 Cursando Gestão da Tecnologia da Informação na Fatec Bragança Paulista<br>
-💼 Assistente Administrativo na Associação Pequeno Mundo, atuando com dados, relatórios e indicadores educacionais<br>
-🐍 Desenvolvendo projetos práticos em Python (automações e dados) e C#, com planos de expandir para mobile<br>
-🎯 Em busca de estágio em Análise de Dados, Gestão de TI ou Desenvolvimento
+🎓 Estudante de Gestão da Tecnologia da Informação · 📊 Dados & Automação · 💻 Desenvolvimento Web
 </p>
 
 ---
 
-<h2 align="left">Linguagens & Ferramentas</h2>
+## 📍 Sobre mim
+
+<p align="left">
+🎓 Cursando <strong>Gestão da Tecnologia da Informação</strong> na Fatec Bragança Paulista<br>
+💼 Atualmente atuo como <strong>Assistente Administrativo</strong> na Associação Pequeno Mundo, trabalhando com dados, relatórios e indicadores educacionais<br>
+💻 Desenvolvo projetos práticos envolvendo <strong>análise de dados, automação e desenvolvimento web</strong><br>
+🚀 Atualmente explorando tecnologias como <strong>Next.js, React, TypeScript, Supabase e PostgreSQL</strong><br>
+🎯 Busco oportunidades para continuar evoluindo profissionalmente nas áreas de <strong>Dados, Tecnologia e Desenvolvimento</strong>
+</p>
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 💻 Desenvolvimento
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+
+</div>
+
+### 🌐 Web & Banco de Dados
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+
+</div>
+
+### 📊 Dados & Automação
+
+* Python
+* Pandas
+* OpenPyXL
+* SQL
+* Power BI
+* Matplotlib
+* Automação de processos
+
+### 🔧 Ferramentas
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+
 </div>
 
 ---
 
-### 📂 Projetos em Destaque
+# 📂 Projetos em Destaque
+
+## 💅 Sistema Kelly Cristine Unhas
+
+<p>
+<strong>Sistema web (PWA) desenvolvido para uma profissional de manicure e pedicure, criado a partir de uma necessidade real.</strong>
+</p>
+
+A aplicação centraliza **agendamentos, clientes, serviços e controle financeiro** em uma única plataforma, com foco em usabilidade mobile-first.
+
+### ✨ Principais funcionalidades
+
+* 📅 Agenda com visualização mensal e navegação por datas
+* 💅 Gestão de atendimentos e serviços
+* 👤 Cadastro e histórico de clientes
+* 💰 Controle de receitas e despesas
+* 📊 Painel financeiro
+* 💳 Controle de formas de pagamento
+* 🔄 Status de atendimento
+* 🔐 Autenticação de usuários
+* 🛡️ Row Level Security (RLS)
+* 📱 PWA e interface Mobile-First
+
+### 🛠️ Tecnologias
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `RLS`
+
+🌐 **[Acessar aplicação](https://sistema-kelly.netlify.app/)**
+📂 **[Ver repositório](https://github.com/guigs-godoy/sistema-kelly)**
+
+---
+
+## 🖨️ AD2Graf — Sistema de Gestão para Gráfica
+
+Sistema web completo desenvolvido em dupla no 4º semestre da Fatec para uma gráfica real.
+
+A aplicação foi desenvolvida para gerenciamento de **estoque, pedidos, movimentações e serviços**, utilizando uma arquitetura baseada em MVC, Repository Pattern e Service Layer.
+
+### 🛠️ Tecnologias
+
+`C#` `ASP.NET Core` `SQL Server` `Entity Framework Core` `Bootstrap`
+
+📂 **[Ver repositório](https://github.com/guigs-godoy/AD2Graf)**
+
+---
+
+## 📋 Relatório de Presença
+
+Automação desenvolvida para geração de relatórios de frequência, com análise de dados e identificação de situações que podem indicar risco de evasão.
+
+### 🛠️ Tecnologias
+
+`Python` `Pandas` `OpenPyXL`
+
+📂 **[Ver repositório](https://github.com/guigs-godoy/relatorio-presenca)**
+
+---
+
+## 📊 Dashboard de Chamados de TI
+
+Projeto desenvolvido para análise de chamados de suporte, utilizando tratamento de dados e geração automatizada de visualizações para facilitar a interpretação dos indicadores.
+
+### 🛠️ Tecnologias
+
+`Python` `Pandas` `Matplotlib`
+
+📂 **[Ver repositório](https://github.com/guigs-godoy/dashboard-chamados)**
+
+---
+
+## 🖥️ Monitor de Inventário de TI
+
+Sistema desenvolvido para acompanhamento de equipamentos de TI, permitindo monitoramento de informações e identificação de alertas relacionados à garantia e utilização dos equipamentos.
+
+### 🛠️ Tecnologias
+
+`Python` `Pandas`
+
+📂 **[Ver repositório](https://github.com/guigs-godoy/monitor-inventario-ti)**
+
+---
+
+## 🏋️ Sistema de Academia Simples
+
+Sistema desenvolvido em C# para matrícula e gerenciamento de alunos, com aplicação de conceitos de **Programação Orientada a Objetos (POO)**.
+
+### 🛠️ Tecnologias
+
+`C#` `HTML5` `CSS3`
+
+📂 **[Ver repositório](https://github.com/guigs-godoy/SistemaDeAcademiaSimples)**
+
+---
+
+## 🏀 NBA Stats DB
+
+Banco de dados relacional desenvolvido para estudos de SQL, utilizando informações relacionadas à NBA e consultas do nível básico ao avançado.
+
+### 🛠️ Tecnologias
+
+`Python` `SQLite` `SQL`
+
+📂 **[Ver repositório](https://github.com/guigs-godoy/nba-stats-db)**
+
+---
+
+# 📚 O que estou estudando atualmente
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+* 💻 Desenvolvimento Web com Next.js e React
+* 🔷 TypeScript
+* 🗄️ PostgreSQL e modelagem de banco de dados
+* 🔐 Autenticação e segurança de aplicações
+* 🐍 Python para dados e automação
+* 📊 Análise de dados e indicadores
+* 🤖 Aplicações práticas de Inteligência Artificial
+* 🚀 Deploy e desenvolvimento de aplicações em produção
+
+---
+
+# 🤖 IA no Desenvolvimento
+
+Tenho explorado ferramentas de Inteligência Artificial como parte do meu processo de desenvolvimento.
+
+Entre as ferramentas utilizadas estão:
+
+* Claude
+* Gemini
+* GPT
+
+Utilizo IA principalmente como **ferramenta de apoio para desenvolvimento, aprendizado, debugging, arquitetura e resolução de problemas**, mantendo o foco na compreensão do código e das decisões tomadas durante o projeto.
+
+---
+
+# 📈 Objetivo Profissional
+
+Busco oportunidades onde possa unir **tecnologia, dados e desenvolvimento** para resolver problemas reais, automatizar processos e transformar informações em soluções úteis.
+
+Tenho interesse principalmente em oportunidades relacionadas a:
+
+**📊 Análise de Dados · 🤖 Automação · 💻 Desenvolvimento · 🗄️ Banco de Dados · 🚀 Tecnologia**
+
+---
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📋 Relatório de Presença</h3>
-      <p>Automação de relatório de frequência com análise de risco de evasão.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/OpenPyXL-217346?style=flat"/></p>
-      <a href="https://github.com/guigs-godoy/relatorio-presenca">→ Ver repositório</a>
-    </td>
-    <td width="50%">
-      <h3>📊 Dashboard de Chamados de TI</h3>
-      <p>Análise de chamados com geração automática de gráficos.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat"/></p>
-      <a href="https://github.com/guigs-godoy/dashboard-chamados">→ Ver repositório</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🖥️ Monitor de Inventário de TI</h3>
-      <p>Monitoramento de equipamentos com alertas de garantia e uso.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/></p>
-      <a href="https://github.com/guigs-godoy/monitor-inventario-ti">→ Ver repositório</a>
-    </td>
-    <td width="50%">
-      <h3>🏋️ Sistema de Academia Simples</h3>
-      <p>Sistema de matrícula e gestão de alunos com POO.</p>
-      <p><img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></p>
-      <a href="https://github.com/guigs-godoy/SistemaDeAcademiaSimples">→ Ver repositório</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏀 NBA Stats DB</h3>
-      <p>Banco de dados relacional da NBA com queries do básico ao avançado.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/></p>
-      <a href="https://github.com/guigs-godoy/nba-stats-db">→ Ver repositório</a>
-    </td>
-    <td width="50%">
-      <h3>🖨️ AD2Graf — Sistema de Gestão para Gráfica</h3>
-      <p>Sistema web completo desenvolvido em dupla no 4º semestre da Fatec para controle de estoque, pedidos, movimentações e serviços de uma gráfica real. Arquitetura MVC com Repository Pattern e Service Layer.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-      </p>
-      <a href="https://github.com/guigs-godoy/AD2Graf">→ Ver repositório</a>
-    </td>
-  </tr>
-</table>
-</div>
-
 
 <img src="https://raw.githubusercontent.com/guigs-godoy/guigs-godoy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<div align="center">
 
 </div>
